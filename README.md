@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<a href="https://colab.research.google.com/github/taikis/introducting-python/blob/develop/google-colab/turtle/turtle.ipynb">
+<a href="https://colab.research.google.com/github/taikis/introducting-python/blob/main/google-colab/turtle/turtle.ipynb">
   <img src="./image/botton.png" width="250px">
 </a>
 
