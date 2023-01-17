@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-  <img src="./image/title.png" width="400px">
+  <img src="./image/title.png" width="400px" alt="プログラミング超入門資料 with Python">
   </h1>
 </div>
 
